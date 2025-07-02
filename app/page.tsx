@@ -11,9 +11,9 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Airdrop',
     description: `Get started with the Airdrop.`,
-    url: 'https://port-next-next-metadata-test-7xwyjq992lliq95b1a.sel4.cloudtype.app',
+    url: 'https://next-metadata-test.vercel.app',
     siteName: 'Airdrop - Come and Play!',
-    images: [{ url: 'https://port-next-next-metadata-test-7xwyjq992lliq95b1a.sel4.cloudtype.app/og.png' }]
+    images: [{ url: 'https://next-metadata-test.vercel.app/og.png' }]
   },
 };
 

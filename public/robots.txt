@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://port-next-next-metadata-test-7xwyjq992lliq95b1a.sel4.cloudtype.app
+Host: https://next-metadata-test.vercel.app
 
 # Sitemaps
-Sitemap: https://port-next-next-metadata-test-7xwyjq992lliq95b1a.sel4.cloudtype.app/sitemap.xml
+Sitemap: https://next-metadata-test.vercel.app/sitemap.xml

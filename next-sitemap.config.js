@@ -1,4 +1,4 @@
 module.exports = {
-  siteUrl: 'https://port-next-next-metadata-test-7xwyjq992lliq95b1a.sel4.cloudtype.app',
+  siteUrl: 'https://next-metadata-test.vercel.app',
   generateRobotsTxt: true,
 }

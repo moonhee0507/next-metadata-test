@@ -17,7 +17,7 @@ export async function generateMetadata(
     openGraph: {
       title: `[Spacecoin] Airdrop - Come and Play!`,
       description: `Please enter the invitation code ${invitecode}.`,
-      url: `https://port-next-next-metadata-test-7xwyjq992lliq95b1a.sel4.cloudtype.app/spacecoin/${invitecode}`,
+      url: `https://next-metadata-test.vercel.app/spacecoin/${invitecode}`,
       siteName: '[Spacecoin] Airdrop - Come and Play!',
       images: [{ url: 'https://files.gluwa.com/media/meta/spacecoin-org/20241030/meta-image.png' }]
     },

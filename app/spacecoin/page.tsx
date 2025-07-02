@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '[Spacecoin] Airdrop - Come and Play!',
     description: `Get started with the [Spacecoin] Airdrop.`,
-    url: 'https://port-next-next-metadata-test-7xwyjq992lliq95b1a.sel4.cloudtype.app/spacecoin',
+    url: 'https://next-metadata-test.vercel.app/spacecoin',
     siteName: '[Spacecoin] Airdrop - Come and Play!',
     images: [{ url: 'https://files.gluwa.com/media/meta/spacecoin-org/20241030/meta-image.png' }]
   },
