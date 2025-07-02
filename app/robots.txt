@@ -1,9 +1,6 @@
 # *
-User-agent: *
+User-Agent: *
 Allow: /
 
 # Host
 Host: https://port-next-next-metadata-test-7xwyjq992lliq95b1a.sel4.cloudtype.app
-
-# Sitemaps
-Sitemap: https://port-next-next-metadata-test-7xwyjq992lliq95b1a.sel4.cloudtype.app/sitemap.xml
