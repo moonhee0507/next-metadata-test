@@ -1,4 +1,21 @@
 import Image from "next/image";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: `Airdrop`,
+  description: `Get started with the Airdrop.`,
+  applicationName: 'Airdrop',
+  authors: [{ name: 'gluwa', url: 'https://gluwa.com' }],
+  keywords: ['Gluwa', 'Airdrop', 'Spacecoin', 'Minini', 'Look', 'Creditcoin'],
+  robots: "index, follow",
+  openGraph: {
+    title: 'Airdrop',
+    description: `Get started with the Airdrop.`,
+    url: 'https://port-next-next-metadata-test-7xwyjq992lliq95b1a.sel4.cloudtype.app',
+    siteName: 'Airdrop - Come and Play!',
+    images: [{ url: 'https://port-next-next-metadata-test-7xwyjq992lliq95b1a.sel4.cloudtype.app/og.jpeg' }]
+  },
+};
 
 export default function Home() {
   return (
