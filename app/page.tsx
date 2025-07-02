@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     description: `Get started with the Airdrop.`,
     url: 'https://port-next-next-metadata-test-7xwyjq992lliq95b1a.sel4.cloudtype.app',
     siteName: 'Airdrop - Come and Play!',
-    images: [{ url: 'https://port-next-next-metadata-test-7xwyjq992lliq95b1a.sel4.cloudtype.app/og.jpeg' }]
+    images: [{ url: 'https://port-next-next-metadata-test-7xwyjq992lliq95b1a.sel4.cloudtype.app/og.png' }]
   },
 };
 
