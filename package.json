@@ -4,16 +4,18 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
-    "prebuild": "rm -rf .next",
+    "prebuild": "rm -rf .next && node scripts/generate-robots.cjs",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
+  "type": "module",
   "dependencies": {
     "@next/env": "^15.3.4",
     "next": "15.3.4",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "ts-node": "^10.9.2"
   },
   "devDependencies": {
     "typescript": "^5",
